@@ -5,9 +5,9 @@ Reviewing a scientific findings with collective intelligence.
 ### Current Review Challenges
 Accurately assessing the quality and significance of scientific papers is of utmost importance, yet the current review process proves unsustainable.
 
-A startling **10% of reviewers handle half of all review** requirements[1](https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf). The **average number of refusals** before securing a reviewer for a paper has increased by 46% between 2013 and 2017[1](https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf). As such, it has become increasingly challenging to find suitable reviewers for new papers.
+A startling **10% of reviewers handle half of all review** requirements[[1]](https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf). The **average number of refusals** before securing a reviewer for a paper has increased by 46% between 2013 and 2017[[1]](https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf). As such, it has become increasingly challenging to find suitable reviewers for new papers.
 
-But the solution may not be implementing incentives of reviewing, as 70.4% of researchers answer they reject invitations **because "the article is out of my area of expertise."**[1](https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf)
+But the solution may not be implementing incentives of reviewing, as 70.4% of researchers answer they reject invitations **because "the article is out of my area of expertise."**[[1]](https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf)
 
 ### The question
 The question, then, is how can we maintain a reliable assessment framework to distinguish between impactful, reliable papers and those of lesser importance?
@@ -45,26 +45,28 @@ A project can have unreasonably high acceptance if some group of people mutually
 ### Response
 
 - Plagiarism:
-To combat plagiarism, we should implement tamper-proof timestamps for each phase: the creation of a project, visibility alterations of the project, and the submission and accept/reject status of proposals. Additionally, we could employ plagiarism detectors capable of identifying paraphrasing[].
+To combat plagiarism, we should implement tamper-proof timestamps for each phase: the creation of a project, visibility alterations of the project, and the submission and accept/reject status of proposals. Additionally, we could employ plagiarism detectors capable of identifying paraphrasing[[2]](https://www.turnitin.com/solutions/ai-writing).
 
 - Metrics:
 Citation disparity is a recognized issue, with citation averages varying across fields. For instance, Engineering and Aerospace average 5.65 citations, while Developmental Biology stands at 38.67. Nonetheless, citation net
-works form distinctive clusters and it is possible to compute the mean citation count within these clusters. When normalized, the distribution of citations across all articles aligns almost perfectly with a single curve[2](https://www.pnas.org/doi/10.1073/pnas.0806977105).
+works form distinctive clusters and it is possible to compute the mean citation count within these clusters. When normalized, the distribution of citations across all articles aligns almost perfectly with a single curve[[3]](https://www.pnas.org/doi/10.1073/pnas.0806977105).
 
 ![Screenshot 2023-07-20 at 15 02 24](https://github.com/CollectiveReview/overview/assets/94701070/b9b7b4aa-a1df-423e-8192-7e25ccf600eb)
 
-graph was cited from [3](https://www.dashunwang.com/book/the-science-of-science)
+graph was cited from [[4]](https://www.dashunwang.com/book/the-science-of-science)
 
 - Reciprocal citation:
 Transparency is the key to tackling reciprocal citations. Thanks to advancements in network science and scientometrics, we are now able to detect the "rich-club phenomenon" and quantify its prevalence. As long as researchers are alerted about potential cheating, they can conduct investigations.
 
-Although Reciprocal citation might indicate foul play, it could be a result of close relation between projects. In fact, an estimated one in five citations from 1950 to 2010 are reciprocated[].
+Although Reciprocal citation might indicate foul play, it could be a result of close relation between projects. In fact, an estimated one in five citations from 1950 to 2010 are reciprocated[[5]](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-019-0199-3).
 
 > There are many issues not covered here which can be found on our [issues](https://github.com/CollectiveReview/overview/issues) page. If you encounter any problems not mentioned there, feel free to propose your own.
 
 ## Potential drawbacks
 
 
-[1] Publons Global Review Report
-[2] Universality of citation distributions: Toward an objective measure of scientific impact
-[3] The Science of Science by DashunWang, Albert-LaszloBarabasi
+[1] Publons Global Review Report<br>
+[2] Turn it in<br>
+[3] Universality of citation distributions: Toward an objective measure of scientific impact<br>
+[4] The Science of Science<br>
+[5] Reciprocity and impact in academic careers<br>
