@@ -60,13 +60,18 @@ Transparency is the key to tackling reciprocal citations. Thanks to advancements
 
 Although Reciprocal citation might indicate foul play, it could be a result of close relation between projects. In fact, an estimated one in five citations from 1950 to 2010 are reciprocated[[5]](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-019-0199-3).
 
+The publishment of projects may look the following in the collective review on push citation. It is similar to distributed repository systems.
+
+![image](https://github.com/CollectiveReview/overview/assets/94701070/24435960-fb7a-42ef-bdf0-7d61b272576a)
+
+
 > There are many issues not covered here which can be found on our [issues](https://github.com/CollectiveReview/overview/issues) page. If you encounter any problems not mentioned there, feel free to propose your own.
 
 ## Potential drawbacks
 
 
-[1] Publons Global Review Report<br>
-[2] Turn it in<br>
-[3] Universality of citation distributions: Toward an objective measure of scientific impact<br>
-[4] The Science of Science<br>
-[5] Reciprocity and impact in academic careers<br>
+[1] Publons Global Review Report https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf<br>
+[2] Turn it in https://www.turnitin.com/solutions/ai-writing<br>
+[3] Universality of citation distributions: Toward an objective measure of scientific impact https://www.pnas.org/doi/10.1073/pnas.0806977105<br>
+[4] The Science of Science https://www.dashunwang.com/book/the-science-of-science<br>
+[5] Reciprocity and impact in academic careers https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-019-0199-3<br>
