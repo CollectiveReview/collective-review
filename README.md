@@ -19,7 +19,7 @@ In the search for solutions, academia is turning towards aggregating individual 
 - Each individual reviewing a small part or subset of a paper
 - Gradual validation of the paper through the aggregation of reviews.
 
-In this context, we propose the concept of 'push citation' as a foundation for collective review. We begin by defining push citation, followed by a description of its functionality. We subsequently examine the issues in a naive implementation of push citation and discuss improvements. Finally, we explore potential drawbacks and unsuitable conditions.
+In this context, we propose the concept of 'push citation' as a foundation for collective review. We begin by defining push citation, followed by a description of its functionality. We subsequently examine the issues in a naive implementation of push citation and discuss enhancements. Finally, we explore potential drawbacks and unsuitable conditions.
 
 see also: https://gnt.place
 
@@ -42,18 +42,20 @@ Publication rates and average citations vary across disciplines. As such, it is 
 - Reciprocal citation
 A project can have unreasonably high acceptance if some group of people mutually accept their projects. This could disrupt the priority of recommendations and potentially compromise the integrity of the entire review system.
 
-### Improvements
-- Plagiarism
-We must grant tamper-proof timestamp at creation of a project, visibility changes
+### Response
 
-- Metrics
-Indeed there is citation disparity. Average citation among Engineering and Aerospace is 5.65 while Developmental Biology has that of 38.67. However, citation network forms distinctive clusters and we can calculate the mean citation count in the cluster. distribution of citaton of all the articles fits almost perfectily on a single curve if normalized.[]
+- Plagiarism:
+To combat plagiarism, we should implement tamper-proof timestamps for each phase: the creation of a project, visibility alterations of the project, and the submission and accept/reject status of proposals. Additionally, we could employ plagiarism detectors capable of identifying paraphrasing[].
 
-- Reciprocal citation
-Transparency is the key. We can now detect the rich club phenomenon and score how much they are, thanks to the methodology in network science and scientometrics. As long as researchers are notified about possibile cheating they can investigate.
-Mutual citation may be just because they are closely related or it might be some cheating, In fact, more than 21% of the citations from 1950 to 2010 are estimated to be reciprocated[]
+- Metrics:
+Citation disparity is a recognized issue, with citation averages varying across fields. For instance, Engineering and Aerospace average 5.65 citations, while Developmental Biology stands at 38.67. Nonetheless, citation networks form distinctive clusters and it is possible to compute the mean citation count within these clusters. When normalized, the distribution of citations across all articles aligns almost perfectly with a single curve[].
 
-> Many issues not mentioned here are in [issues](https://github.com/CollectiveReview/overview/issues) page. If you have any problems not stated there, propose your own.
+- Reciprocal citation:
+Transparency is the key to tackling reciprocal citations. Thanks to advancements in network science and scientometrics, we are now able to detect the "rich-club phenomenon" and quantify its prevalence. As long as researchers are alerted about potential cheating, they can conduct investigations.
+
+Although Reciprocal citation might indicate foul play, it could be a result of close relation between projects. In fact, an estimated one in five citations from 1950 to 2010 are reciprocated[].
+
+> There are many issues not covered here which can be found on our [issues](https://github.com/CollectiveReview/overview/issues) page. If you encounter any problems not mentioned there, feel free to propose your own.
 
 ## Potential drawbacks
 - 
