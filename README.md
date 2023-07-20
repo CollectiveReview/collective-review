@@ -62,8 +62,7 @@ Although Reciprocal citation might indicate foul play, it could be a result of c
 
 The publishment of projects may look the following in the collective review on push citation. It is similar to distributed repository systems.
 
-![image](https://github.com/CollectiveReview/overview/assets/94701070/24435960-fb7a-42ef-bdf0-7d61b272576a)
-
+![image](https://github.com/CollectiveReview/overview/assets/94701070/6b16352d-5ec3-4f27-9baa-20d10d255cd9)
 
 > There are many issues not covered here which can be found on our [issues](https://github.com/CollectiveReview/overview/issues) page. If you encounter any problems not mentioned there, feel free to propose your own.
 
