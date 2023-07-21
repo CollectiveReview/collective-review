@@ -26,6 +26,8 @@ see also: https://gnt.place
 ## Push Citation 
 In the push citation methodology, an author presents her work to ongoing research projects. These projects then have the option to either accept or reject the proposal. If a project accepts her work, it incorporates her research into its list of contributions (citations). Consequently, the reliability and impact of a project can be measured through its acceptance rate.
 
+<img src="https://github.com/CollectiveReview/overview/assets/94701070/e0a9ca76-7021-4ced-90bf-37630ca00d2b" height="300px">&emsp;&emsp;<img src="https://github.com/CollectiveReview/overview/assets/94701070/880e4b40-b356-44ab-a2ea-e25470522c14" height="300px">
+
 > Pull citation is building a new block on the previous research, and<br>
 > Push citation is improving a current research project by proposing a project.
 
