@@ -9,7 +9,6 @@ A startling **10% of reviewers handle half of all review** requirements[[1]](htt
 
 But the solution may not be implementing incentives of reviewing, as 70.4% of researchers answer they reject invitations **because "the article is out of my area of expertise."**[[1]](https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf)
 
-### The question
 The question, then, is how can we maintain a reliable assessment framework to distinguish between impactful, reliable papers and those of lesser importance?
 
 ### Collective Review: A Solution?
