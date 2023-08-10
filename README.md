@@ -76,3 +76,58 @@ The publishment of projects may look the following in the collective review on p
 [3] Universality of citation distributions: Toward an objective measure of scientific impact https://www.pnas.org/doi/10.1073/pnas.0806977105<br>
 [4] The Science of Science https://www.dashunwang.com/book/the-science-of-science<br>
 [5] Reciprocity and impact in academic careers https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-019-0199-3<br>
+
+
+## Aug. 4 Discussion Collective Reviewの考え方：集合知による論文の質評価
+査読の役割は、 ImpactとValidityの評価
+研究テーマ「それをpush citationのネットワークでどう測定し、ハックを防げるのか」
+Impact = レポジトリのclone数
+Validity = PRのAccept数
+評価経済はハックできるよね
+page rank の改良版の先行研究
+
+
+
+「オープンにした評価基準は、ハックされる」。
+LinkFarm
+
+
+対策
+Network 閉鎖性指標：同じユーザーがどれくらい閉じたクラスタ間で評価し合っているのか
+
+
+graph neural networkで、隣接行列から行列分解
+Bitcoinはハックされてないよね
+シンプルなアルゴリズム
+ゲーム理論として、不正をしない方が得するインセンティブ設計
+Twitter communityでは選択の仕組みが公開されているが
+スパムの対策手法
+基本は、「行動に僅かなコストをかける」ということ（Dowak, Naoaの論文）
+
+Twitter Communityの評価アルゴリズム
+https://communitynotes.twitter.com/guide/en/under-the-hood/ranking-notes
+行列分解を使った推薦アルゴリズムを、投稿されたノートと評価者への評価に応用している
+6ヶ月以上たったtwitterアカウントしか参加できない (スパム対策 暫定的ではあるが)
+電話番号に紐づいたtwitterアカウントしか参加できない (シビル攻撃対策)
+1つの電話番号は1つのtwitterアカウントにしか紐付けられない
+行列分解について
+https://towardsdatascience.com/introduction-to-latent-matrix-factorization-recommender-systems-8dfc63b94875
+元論文
+https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf
+Lassoについて
+https://zero2one.jp/learningblog/yobinori-collab-regularization/
+行列分解を用いた推薦システムについて 
+https://note.com/ryuichiro/n/n3ef1fc1026f6
+
+
+NEM Whitepaper
+https://docs.nem.io/pages/Whitepapers/NEM_techRef.pdf
+
+7.6 Resistance to Manipulation
+をとくに参照のこと
+
+
+repository scienceのメモ
+リアルタイムでcolleagueと共同編集できるが、contributionは分かる→行ごと？
+contributionの内容を要約させて、ラベリング←LL Mの利用
+
