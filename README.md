@@ -5,7 +5,7 @@ Reviewing a scientific findings with collective intelligence.
 ### Current Review Challenges
 Accurately assessing the quality and significance of scientific papers is of utmost importance, yet the current review process proves unsustainable.
 
-A startling **10% of reviewers handle half of all review** requirements[[1]](https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf). The **average number of refusals** before securing a reviewer for a paper has increased by 46% between 2013 and 2017[[1]](https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf). As such, it has become increasingly challenging to find suitable reviewers for new papers.
+A startling **only 10% of reviewers handle half of all review** requirements[[1]](https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf). The **average number of refusals** before securing a reviewer for a paper has increased by 46% between 2013 and 2017[[1]](https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf). As such, it has become increasingly challenging to find suitable reviewers for new papers.
 
 But the solution may not be implementing incentives of reviewing, as 70.4% of researchers answer they reject invitations **because "the article is out of my area of expertise."**[[1]](https://publons.com/static/Publons-Global-State-Of-Peer-Review-2018.pdf)
 
